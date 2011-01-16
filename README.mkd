@@ -1,0 +1,7 @@
+# README
+
+## Info ##
+
+These scripts are designed to download a users osmChange files from OpenStreetMap, extract a list of nodes they created or modified, call an external heat map program to make heat map tiles from the points, and show the resulting tiles over the OpenStreetMap baselayer in a web browser.
+
+The heatmap.py program from http://www.sethoscope.net/heatmap/ is a dependency for render-heatmap-to-tiles.pl.
